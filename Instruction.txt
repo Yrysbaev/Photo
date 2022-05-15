@@ -1,0 +1,11 @@
+How does this code work?
+---------------
+This is a code that converts your photo to black and white, resizes it to 1080X1080 Instagram size, filters it, and adds a watermark to it.
+
+Documentation
+------------
+The os module and PIL libraries were utilized. We also used the font "Wall Notes.otf." To use this font, first download it from the internet. Install Pillow library if you don't already have it by running the command below:pip install pillow
+
+How to use it?
+-------------
+You must provide the path to your folder and add images to it. The extension of your image should be '.jpg' or '.png.' Simply run it after adding it.
